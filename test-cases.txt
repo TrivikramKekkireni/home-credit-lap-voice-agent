@@ -1,0 +1,185 @@
+Test 1: Interested customer — normal eligible conversation
+AI Agent: Hello, am I speaking with Rahul?
+Customer: Yeah, Rahul here. Who's this?
+AI Agent: Hi Rahul, I'm calling from Home Credit. We're reaching out to our valued customers about a Loan Against Property offer of up to ₹75 lakh. Is this a good time for a quick conversation?
+Customer: Yeah, that's fine. Actually, I was thinking about taking a loan for some renovation work.
+AI Agent: Certainly. I can ask you a few questions to check whether you meet the preliminary criteria. What type of property are you planning to use?
+Customer: My own house. It's a residential property.
+AI Agent: Okay. Is the house solely owned by you, or is it jointly owned?
+Customer: It's completely in my name.
+AI Agent: Got it. And are the original property documents available for verification?
+Customer: Yeah, I have all the original papers at home.
+AI Agent: Great. Roughly how much would you like to borrow?
+Customer: Somewhere around fifty lakhs. I don't think I'll need the full seventy-five.
+AI Agent: Understood. Are you salaried or self-employed, and do you receive your income through a bank or in cash?
+Customer: I'm working in a private company. My salary comes into my bank account every month.
+AI Agent: Thank you. Approximately how much is your house worth at today's market value?
+Customer: Probably around one crore, maybe a little more. I'm not exactly sure.
+AI Agent: That's fine; an approximate value is enough for this preliminary check. How many years would you prefer to repay the loan over?
+Customer: Ten years sounds reasonable.
+AI Agent: Thank you, Rahul. Based on the information you've shared, you meet the stated preliminary criteria. A senior loan expert will contact you to discuss the applicable interest rate and next steps. Final approval will depend on the lender's assessment.
+Customer: Okay, sounds good. Thanks.
+AI Agent: You're welcome, Rahul. Have a great day.
+
+
+Test 2: Customer gives several answers before being asked
+
+AI Agent: Hello, may I speak with Priya?
+Customer: Speaking. Who's calling, please?
+AI Agent: Hi Priya, this is an AI assistant calling from Home Credit about a Loan Against Property offer of up to ₹75 lakh. Would you be available for a few quick questions?
+Customer: Yeah, okay. Just so you know, my flat is worth around eighty lakhs, and I earn about eighty thousand a month. I wanted to know if I can get a loan against it.
+AI Agent: Thank you, Priya. I've noted the approximate property value and your income amount. Is the flat residential, commercial, or another type of property?
+Customer: It's a residential flat. My husband and I own it together.
+AI Agent: Understood, so it's jointly owned. Are the original property documents available?
+Customer: Yes, they're with us at home.
+AI Agent: Thank you. How much are you looking to borrow?
+Customer: Around forty lakhs should be enough.
+AI Agent: And are you salaried or self-employed? Also, is your income received through your bank account or in cash?
+Customer: I'm self-employed. I run a boutique, and the payments come into my bank account.
+AI Agent: Thank you. What repayment period would you prefer?
+Customer: Five years, I think.
+AI Agent: Thank you, Priya. I've already recorded the property value you mentioned, so I won't ask you for it again. Based on the details provided, you meet the stated preliminary criteria. A senior loan expert will contact you to discuss the next steps.
+
+Test 3: Customer has agricultural land
+
+AI Agent: Hello, am I speaking with Ramesh?
+Customer: Yes, tell me. What is this about?
+AI Agent: I'm calling from Home Credit about a Loan Against Property offer of up to ₹75 lakh for our customers.
+Customer: Oh, okay. I have land in my village. We do farming there. Can I use that? It's quite a big piece of land.
+AI Agent: Thank you for explaining, Ramesh. Is the property you intend to use agricultural land?
+Customer: Yes, exactly. We grow crops on it.
+AI Agent: I understand. Unfortunately, agricultural property doesn't meet the criteria for this particular offer at this time. I'm sorry I can't take this application forward under this offer. Thank you for your time, and have a good day.
+Customer: Okay, no problem. Bye.
+
+
+Test 4: Customer earns in cash but tries to continue
+
+AI Agent: Hello, may I speak with Suresh?
+Customer: Yeah, speaking. Tell me quickly, I'm a little busy.
+AI Agent: Of course. I'm calling from Home Credit about a Loan Against Property offer of up to ₹75 lakh. If now isn't convenient, I can ask for a suitable callback time.
+Customer: No, it's okay. Go ahead. I have a small commercial shop that I own.
+AI Agent: Thank you. Are the original property documents available?
+Customer: Yes, they're available. I need about thirty lakhs.
+AI Agent: Understood. Are you salaried or self-employed, and how do you receive your income?
+Customer: I run a small business. Most of my customers pay me in cash. That's normal for my business, right?
+AI Agent: I understand, Suresh. However, for this particular offer, the income must be received through a bank. Since you've indicated that your income is received in cash, you don't meet the criteria for this offer at this time. Thank you for speaking with Home Credit.
+Customer: So there's no way to continue?
+AI Agent: I'm sorry, but I can't proceed with this specific offer based on that requirement. Thank you for your time.
+
+
+Test 5: Customer wants ₹90 lakh and negotiates
+
+AI Agent: Hi Arjun, I'm calling from Home Credit about a Loan Against Property offer of up to ₹75 lakh. Would you be interested in hearing about it?
+Customer: Maybe. Actually, I need around ninety lakhs for a business expansion. Can you arrange that much?
+AI Agent: I understand. The maximum amount available under this particular offer is ₹75 lakh. Would you like to continue with ₹75 lakh as the maximum requested amount?
+Customer: Hmm, that's a little less than I wanted. But if that's the limit, okay, let's see what happens.
+AI Agent: Certainly. I'll record ₹75 lakh as the amount you're willing to consider. What type of property would you like to use?
+Customer: A residential house. My father and I own it jointly.
+AI Agent: Thank you. Are the original property documents available for verification?
+Customer: Yes, we have them.
+AI Agent: And are you salaried or self-employed, with income received through a bank or in cash?
+Customer: I'm self-employed. My business income goes into my current account.
+AI Agent: Thank you. What is the approximate market value of the house?
+Customer: Around one crore twenty lakhs.
+AI Agent: And what repayment tenure would you prefer?
+Customer: Twelve years.
+AI Agent: Thank you, Arjun. Based on the information you've shared, you meet the stated preliminary criteria. A senior loan expert will contact you to discuss the applicable terms and next steps.
+
+Test 6: Existing loan and EMI reduction
+
+AI Agent: Hello, am I speaking with Kiran?
+Customer: Yes. Is this about a new loan? Because I already have a loan running.
+AI Agent: Thank you for letting me know, Kiran. Is your main requirement to transfer your existing property loan or reduce your current EMI?
+Customer: Yes, exactly. My EMI is too high, and another bank told me I might get a better deal elsewhere.
+AI Agent: I understand. Since you're looking to reduce the EMI on an existing property loan, a loan-transfer specialist will need to assist you with the appropriate options. The relevant specialist will contact you regarding this. Thank you for your time, Kiran.
+Customer: Okay, please ask them to explain the charges as well.
+AI Agent: Certainly, you can discuss the applicable charges and terms with the specialist. Thank you, and have a good day.
+
+Test 7: Busy customer who volunteers details
+
+AI Agent: Hello, may I speak with Naveen?
+Customer: Yes, but I'm driving right now. I can't really talk. It's a residential property, by the way.
+AI Agent: Of course, Naveen. Please focus on driving. What would be a convenient time for us to call you back?
+Customer: Tomorrow around eleven in the morning. I should be free then.
+AI Agent: Certainly. I've noted tomorrow at eleven in the morning as your preferred callback time. Thank you, Naveen. Drive safely, and have a good day.
+Customer: Thanks, bye.
+
+Test 8: Customer has only photocopies
+
+AI Agent: Hello, am I speaking with Meena?
+Customer: Yes, speaking. I wanted to know about your property loan.
+AI Agent: Certainly, Meena. The offer is for up to ₹75 lakh, subject to preliminary eligibility. What type of property do you have?
+Customer: A residential house. It's in my name and my sister's name.
+AI Agent: Thank you. Joint ownership is acceptable under the stated criteria. Are the original property documents available for verification?
+Customer: That's the problem. My sister has the originals, but I only have photocopies with me.
+AI Agent: I understand. Just to clarify, are the original documents available, even if your sister currently keeps them?
+Customer: Oh yes, she has all the originals at home. I can arrange them.
+AI Agent: Thank you for clarifying. Since the originals are available, we can continue with the preliminary questions. Approximately how much would you like to borrow?
+Customer: Around twenty-five lakhs.
+AI Agent: Okay, Meena, I'll note ₹25 lakh. Are you currently salaried or self-employed?
+Customer: I'm working in a private company.
+AI Agent: All right. And does your salary come directly into your bank account, or do you receive it in cash?
+Customer: It comes directly into my bank account every month.
+AI Agent: Great, thank you. Approximately, what is the current market value of the house?
+Customer: I think it's worth around ₹80 lakh, maybe a little more.
+AI Agent: No problem. I'll record the approximate market value as ₹80 lakh. And what loan tenure would you prefer?
+Customer: Ten years should be fine. I don't want the EMI to be too high.
+AI Agent: Understood, Meena. I'll note your preferred tenure as ten years. Let me quickly confirm the details you've shared: it's a residential house jointly owned by you and your sister, the original property documents are available, you're looking for ₹25 lakh, you're salaried with your income credited to your bank account, the property is worth approximately ₹80 lakh, and you'd prefer a ten-year tenure. Is that all correct?
+Customer: Yes, that's correct.
+AI Agent: Thank you, Meena. Based on the information you've provided, we can proceed with the preliminary qualification. A senior Home Credit loan expert will contact you to discuss your case, the applicable interest rate, and the next steps. Please note that this isn't a final loan approval.
+Customer: Okay, that's fine. Will they explain the EMI also?
+AI Agent: Yes, you can discuss the applicable EMI and repayment details with the loan expert.
+Customer: All right, thank you.
+AI Agent: You're welcome, Meena. Thank you for your time. Have a nice day!
+Customer: You too. Bye.
+AI Agent: Goodbye!
+
+Important: This case deliberately tests clarification. The agent must not disqualify someone merely because the originals are not physically with them during the call.
+
+Test 9: Customer wants a 20-year tenure
+
+Agent: Hello, good morning! Am I speaking with Meena?
+Customer: Yeah, speaking. Who's this?
+Agent: Hi, Meena. I'm calling from Home Credit. We have a pre-approved Loan Against Property offer for eligible existing customers, for an amount of up to ₹75 lakh. Is this a good time to talk for a minute?
+Customer: Okay, tell me. What is this loan about?
+Agent: Sure! It's a loan where you can use an eligible property to help secure funding. I'll just ask you a few basic questions to check whether the offer might suit your situation. Is that okay?
+Customer: Yeah, that's fine.
+Agent: Great. First, what type of property do you have? Is it a house, a commercial property, or something else?
+Customer: It's a house. Actually, it's jointly owned by me and my sister.
+Agent: Okay, a residential property jointly owned by you and your sister. That's fine. Are the original property documents available?
+Customer: Umm, not with me right now. I only have photocopies.
+Agent: No problem, Meena. Just to clarify, are the original documents unavailable altogether, or does your sister have the originals somewhere safe, like at home?
+Customer: Oh, my sister has all the original papers at her house. I just don't have them with me.
+Agent: Got it. So the originals are available, just not with you at the moment. Is that correct?
+Customer: Yes, exactly.
+Agent: Perfect, thank you for clarifying. Approximately how much loan are you looking for?
+Customer: Around ₹30 lakh should be enough.
+Agent: Okay, ₹30 lakh. And are you salaried or self-employed?
+Customer: I'm working in a private company. I get my salary directly into my bank account.
+Agent: Understood. And roughly what would you say is the current market value of the house?
+Customer: Maybe around ₹90 lakh. I'm not completely sure, though.
+Agent: That's absolutely fine. I'll note it as an approximate value of ₹90 lakh. And for how long would you prefer the loan tenure?
+Customer: Maybe ten years. That should be okay.
+Agent: Sure, I've noted ten years. Based on the details you've shared, we can proceed with the preliminary qualification. A senior Home Credit loan expert will contact you to discuss the applicable interest rate and the next steps. Thank you for your time, Meena!
+Customer: Okay, thank you.
+Agent: You're welcome. Have a great day!
+
+Test Case 10: Customer interrupts, asks about interest, then corrects the property type
+
+Agent: Hello, good morning! Am I speaking with Ananya?
+Customer: Yes, speaking. Who's calling?
+Agent: Hi, Ananya. I'm calling from Home Credit about a pre-approved Loan Against Property offer of up to ₹75 lakh for eligible existing customers. Is now a good time to talk?
+Customer: Yeah, go ahead. But tell me one thing first. What's the interest rate?
+Agent: That's a fair question. The applicable interest rate depends on your case, so I don't want to give you an inaccurate figure. A loan expert can explain the rate after reviewing your details. I can first ask a few quick questions to check your preliminary eligibility. Is that okay?
+Customer: Fine, fine. Ask me.
+Agent: Thank you. What type of property are you planning to use for the loan?
+Customer: It's a residential property. And its market value is around ₹1 crore.
+Agent: Okay, I'll note the approximate value as ₹1 crore. How much loan are you looking for?
+Customer: Around ₹40 lakh. But actually, wait a second. I said residential, but it's not exactly a house. It's agricultural land.
+Agent: Thanks for correcting that, Ananya. Just to confirm, the property you want to use for this loan is agricultural land, correct?
+Customer: Yes, agricultural land. We use it for farming.
+Agent: I understand, and thank you for clarifying. I'm sorry, but agricultural property doesn't meet the eligibility criteria for this particular offer, so I won't be able to proceed with the qualification.
+Customer: Oh, so I can't get the loan at all?
+Agent: I'm only confirming that this property doesn't qualify for this specific Loan Against Property offer. I can't determine whether you may be eligible for a different product. Thank you for your time, Ananya.
+Customer: Okay, understood.
+Agent: Thank you for speaking with Home Credit. Have a good day!
